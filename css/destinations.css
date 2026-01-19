@@ -17,6 +17,7 @@
 
 .img-item.osaka {
   background: url(../img/osaka-mobile.jpg);
+  margin-top: 40px;
 }
 
 .item h4 {
@@ -31,7 +32,7 @@
 }
 
 .destinations .button {
-  margin: 24px 0 40px;
+  margin: 24px auto 0;
   text-align: center;
   width: 312px;
 }

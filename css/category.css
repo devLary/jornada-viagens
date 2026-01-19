@@ -48,13 +48,13 @@
 
 @media screen and (min-width: 1024px) {
   .category-cards .card {
-    width: 430px;
+    width: 420px;
   }
 }
 
 @media screen and (min-width: 1440px) {
   .category-cards .card {
-    width: 280px;
+    width: 282px;
   }
 }
 
