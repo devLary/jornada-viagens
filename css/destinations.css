@@ -1,8 +1,5 @@
 .destinations .item header {
   padding: 0;
-  display: block;
-  background-color: transparent;
-  position: static;
 }
 
 .destination-itens {
@@ -33,7 +30,7 @@
   font-size: 20px;
 }
 
-.button {
+.destinations .button {
   margin: 24px 0 40px;
   text-align: center;
   width: 312px;
