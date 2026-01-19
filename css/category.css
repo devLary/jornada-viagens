@@ -22,8 +22,6 @@
 }
 
 .category-cards .card h3 {
-  font-weight: var(--title-weight);
-  font-size: 28px;
   padding-top: 24px;
 }
 
