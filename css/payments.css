@@ -1,1 +1,26 @@
+.payments .text-content p {
+  margin: 24px auto;
+}
 
+.payments .image-gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  height: 460px;
+}
+
+.payments .image.first {
+  background: url(../img/gallery1-mobile.jpg) no-repeat;
+  background-size: cover;
+}
+
+.payments .image.second {
+  background: url(../img/gallery2-mobile.jpg) no-repeat;
+  background-size: cover;
+}
+
+.payments .image.thirdy {
+  background: url(../img/gallery3-mobile.jpg);
+  background-size: cover;
+  grid-column: span 2;
+}
