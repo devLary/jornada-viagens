@@ -61,4 +61,7 @@
   .item {
     width: 588px;
   }
+  .img-item.osaka {
+    margin-top: 0;
+  }
 }
