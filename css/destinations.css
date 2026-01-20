@@ -17,21 +17,15 @@
 
 .img-item.osaka {
   background: url(../img/osaka-mobile.jpg);
+  margin-top: 40px;
 }
 
 .item h4 {
-  font-weight: var(--title-weight);
-  font-size: 28px;
   margin: 24px 0;
 }
 
-.item p {
-  font-weight: var(--text-weight);
-  font-size: 20px;
-}
-
 .destinations .button {
-  margin: 24px 0 40px;
+  margin: 24px auto 0;
   text-align: center;
   width: 312px;
 }
@@ -66,5 +60,8 @@
   }
   .item {
     width: 588px;
+  }
+  .img-item.osaka {
+    margin-top: 0;
   }
 }

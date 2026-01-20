@@ -22,8 +22,6 @@
 }
 
 .category-cards .card h3 {
-  font-weight: var(--title-weight);
-  font-size: 28px;
   padding-top: 24px;
 }
 
@@ -48,13 +46,13 @@
 
 @media screen and (min-width: 1024px) {
   .category-cards .card {
-    width: 430px;
+    width: 420px;
   }
 }
 
 @media screen and (min-width: 1440px) {
   .category-cards .card {
-    width: 280px;
+    width: 282px;
   }
 }
 
