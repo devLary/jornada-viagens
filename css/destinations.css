@@ -24,12 +24,6 @@
   margin: 24px 0;
 }
 
-.destinations .button {
-  margin: 24px auto 0;
-  text-align: center;
-  width: 312px;
-}
-
 @media screen and (min-width: 768px) {
   .destination-itens {
     width: 648px;
@@ -43,6 +37,7 @@
 
   .img-item.osaka {
     background: url(../img/osaka-tablet-desk.jpg);
+    background-size: cover;
   }
 }
 
