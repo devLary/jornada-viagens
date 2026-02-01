@@ -37,6 +37,7 @@
 
   .img-item.osaka {
     background: url(../img/osaka-tablet-desk.jpg);
+    background-size: cover;
   }
 }
 

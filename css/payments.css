@@ -28,17 +28,17 @@
 }
 
 .payments .content-container .pac-viagem .image.first {
-  background: url(../img/pac-gallery1-mobile.jpg) no-repeat;
+  background: url(../img/travel-packages/pac-gallery1-mobile.jpg) no-repeat;
   background-size: cover;
 }
 
 .payments .content-container .pac-viagem .image.second {
-  background: url(../img/pac-gallery2-mobile.jpg) no-repeat;
+  background: url(../img/travel-packages/pac-gallery2-mobile.jpg) no-repeat;
   background-size: cover;
 }
 
 .payments .content-container .pac-viagem .image.thirdy {
-  background: url(../img/pac-gallery3-mobile.jpg);
+  background: url(../img/travel-packages/pac-gallery3-mobile.jpg);
   background-size: cover;
   grid-column: span 2;
 }
@@ -61,17 +61,19 @@
   }
 
   .payments .content-container .pac-viagem .image.first {
-    background: url(../img/pac-gallery1-tablet-desktop.jpg) no-repeat;
+    background: url(../img/travel-packages/pac-gallery1-tablet-desktop.jpg)
+      no-repeat;
     background-size: cover;
   }
 
   .payments .content-container .pac-viagem .image.second {
-    background: url(../img/pac-gallery2-tablet-desktop.jpg) no-repeat;
+    background: url(../img/travel-packages/pac-gallery2-tablet-desktop.jpg)
+      no-repeat;
     background-size: cover;
   }
 
   .payments .content-container .pac-viagem .image.thirdy {
-    background: url(../img/pac-gallery3-tablet-desktop.jpg);
+    background: url(../img/travel-packages/pac-gallery3-tablet-desktop.jpg);
     background-size: cover;
     grid-column: span 2;
   }
