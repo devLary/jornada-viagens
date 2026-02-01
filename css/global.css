@@ -50,6 +50,11 @@ section.bottom-hero {
   margin-top: 88px;
 }
 
+section.pac-bottom-hero {
+  width: 100%;
+  margin-top: 88px;
+}
+
 .section-title {
   width: 280px;
   margin: 0 auto;

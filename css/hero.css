@@ -9,11 +9,6 @@
   background-size: cover;
 }
 
-.bottom-hero .hero-img {
-  background: url(../img/img-footer-mobile.jpg) no-repeat;
-  background-size: cover;
-}
-
 .hero-pac-viagem .hero-img {
   background: url(../img/hero-pac-viagens-mobile.png) no-repeat;
   background-size: cover;
@@ -26,6 +21,18 @@
   font-weight: var(--text-weight);
   font-size: 20px;
   line-height: 32px;
+}
+
+.bottom-hero .hero-img {
+  background: url(../img/img-bottom-hero-mobile.jpg) no-repeat;
+  background-size: cover;
+}
+
+.pac-bottom-hero .hero-img {
+  background: url(../img/img-pac-bottom-hero-mobile.png) no-repeat;
+  background-size: cover;
+  height: 460px;
+  width: 100%;
 }
 
 .hero h2 {
@@ -58,8 +65,14 @@
 
   .bottom-hero .hero-img {
     height: 400px;
-    background: url(../img/img-footer-tablet.jpg) no-repeat;
+    background: url(../img/img-bottom-hero-tablet.jpg) no-repeat;
     background-size: cover;
+  }
+
+  .pac-bottom-hero .hero-img {
+    background: url(../img/img-pac-bottom-hero-tablet.png) no-repeat;
+    background-size: cover;
+    height: 400px;
   }
 
   .hero h2 {
@@ -76,8 +89,12 @@
 
   .bottom-hero .hero-img {
     height: 600px;
-    background: url(../img/img-footer-desktop.jpg) no-repeat;
+    background: url(../img/img-bottom-hero-desktop.jpg) no-repeat;
     background-size: cover;
+  }
+
+  .pac-bottom-hero .hero-img {
+    height: 460px;
   }
 
   .hero h2 {
@@ -94,6 +111,12 @@
 
   .hero-pac-viagem .hero-img p {
     width: 580px;
+  }
+
+  .pac-bottom-hero .hero-img {
+    background: url(../img/img-pac-bottom-hero-desktop.png) no-repeat;
+    background-size: cover;
+    height: 600px;
   }
 }
 
