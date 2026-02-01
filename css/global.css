@@ -41,6 +41,10 @@ section.hero {
   width: 100%;
 }
 
+section.hero-pac-viagem {
+  width: 100%;
+}
+
 section.bottom-hero {
   width: 100%;
   margin-top: 88px;
@@ -49,6 +53,13 @@ section.bottom-hero {
 .section-title {
   width: 280px;
   margin: 0 auto;
+}
+
+.section-title h1 {
+  font-size: 48px;
+  color: var(--text-secondary-color);
+  font-weight: var(--title-weight);
+  text-align: left;
 }
 
 .section-title h2 {
