@@ -97,6 +97,21 @@ section.bottom-hero {
   line-height: 32px;
 }
 
+.button {
+  height: 64px;
+  margin: 24px auto 0;
+  text-align: center;
+  width: 312px;
+  background-color: var(--secondary-color);
+  color: var(--text-secondary-color);
+  font-size: 20px;
+  font-weight: var(--title-weight);
+  border-radius: 8px;
+  display: inline-block;
+  text-decoration: none;
+  line-height: 64px;
+}
+
 @media screen and (min-width: 768px) {
   section {
     width: 648px;

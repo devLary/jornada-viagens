@@ -38,17 +38,8 @@
   display: inline-block;
 }
 
-.button {
+.card .button {
   width: 280px;
-  height: 64px;
-  background-color: var(--secondary-color);
-  color: var(--text-secondary-color);
-  font-size: 20px;
-  font-weight: var(--title-weight);
-  border-radius: 8px;
-  display: inline-block;
-  text-decoration: none;
-  line-height: 64px;
 }
 
 .card.japao {
